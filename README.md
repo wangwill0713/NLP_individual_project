@@ -5,5 +5,12 @@ Trainset has 42068 sentences Validationset has 3370 sentences Testset has 3761 s
 The data file's data is a tiny version of penn,by 10x downsampling.\
 Trainset has 4206 sentences Validationset has 337 sentences Testset has 376 sentences\
 ## Train
+```shell
+python run.py --mode train [--step ] [--hidden ] [--emb_size] [--batch_size] [--lr] [--train_path] [--valid_path] [--model]
+```
 ## Test
-## Result
+```shell
+python run.py --mode test [--batch_size] [--model] [--test_path] [-ckpt]
+```
+## Result Visualisation
+
