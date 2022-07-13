@@ -1,6 +1,6 @@
 # NLP_individual_project
 ## environment
-Python 3.7.10
+Python 3.7.10\
 Pytroch 1.8.0
 ## Data
 The penn file's data is from [this](http://www.fit.vutbr.cz/~imikolov/rnnlm/simple-examples.tgz)\
