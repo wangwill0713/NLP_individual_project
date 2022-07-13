@@ -1,5 +1,5 @@
 # NLP_individual_project
-## Data\
-## Train\
-## Test\
-## Result\
+## Data
+## Train
+## Test
+## Result
