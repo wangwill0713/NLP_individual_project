@@ -1,4 +1,7 @@
 # NLP_individual_project
+## environment
+Python 3.7.10
+Pytroch 1.8.0
 ## Data
 The penn file's data is from [this](http://www.fit.vutbr.cz/~imikolov/rnnlm/simple-examples.tgz)\
 Trainset has 42068 sentences Validationset has 3370 sentences Testset has 3761 sentences\
@@ -13,4 +16,6 @@ python run.py --mode train [--step ] [--hidden ] [--emb_size] [--batch_size] [--
 python run.py --mode test [--batch_size] [--model] [--test_path] [-ckpt]
 ```
 ## Result Visualisation
-
+```shell
+python draw.py
+```
